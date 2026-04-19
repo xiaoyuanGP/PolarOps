@@ -1,0 +1,20 @@
+{
+    "servers": [
+        {
+            "name": "Sever1",
+            "ip": "154.12.91.212",
+            "port": 22,
+            "user": "root",
+            "auth_type": "password",
+            "password": "kqdaQOLR0041",
+            "key_path": "",
+            "id": "c97e009e",
+            "rcon_ip": "154.12.91.212",
+            "rcon_port": 25267,
+            "rcon_password": "JYSever1"
+        }
+    ],
+    "users": {
+        "admin": "admins123"
+    }
+}
